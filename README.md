@@ -1,10 +1,4 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Oi, tudo bem? Sejam Bem-vindes! 👋👋👋
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Este é um repositório criado para postagem do projeto do desafio da aula de Flexbox do Bootcamp Santander Fullstack Developer, oferecido pelo Santander Universidades, F1rst, e DIO - Digital Innovation One. 👨‍💻
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
